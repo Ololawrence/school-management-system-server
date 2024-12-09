@@ -1,0 +1,62 @@
+{
+  "status": 200,
+  "message": "Data retrieved successfully",
+  "length": 11,
+  "data": [
+    {
+      "name": "মো: আব্দুল হামিদ",
+      "level": "৬ষ্ঠ শ্রেণী",
+      "image": "/image/student/student1.gif"
+    },
+    {
+      "name": "জান্নাতুন নাঈম",
+      "level": "৬ষ্ঠ শ্রেণী",
+      "image": "/image/student/student2.gif"
+    },
+    {
+      "name": "রহিমা আফরোজ",
+      "level": "৭ম শ্রেণী",
+      "image": "/image/student/student3.gif"
+    },
+    {
+      "name": "মো: আব্দুল হামিদ",
+      "level": "৮ম শ্রেণী",
+      "image": "/image/student/student4.gif"
+    },
+    {
+      "name": "রফিকুল আমিন",
+      "level": "৮ম শ্রেণী",
+      "image": "/image/student/student5.gif"
+    },
+    {
+      "name": "জান্নাতুন",
+      "level": "৮ম শ্রেণী",
+      "image": "/image/student/student6.gif"
+    },
+    {
+      "name": "হামিদ",
+      "level": "৯ম শ্রেণী",
+      "image": "/image/student/student7.gif"
+    },
+    {
+      "name": "রফিকুল",
+      "level": "৯ম শ্রেণী",
+      "image": "/image/student/student8.gif"
+    },
+    {
+      "name": "মো: আব্দুল হামিদ",
+      "level": "৯ম শ্রেণী",
+      "image": "/image/student/student1.gif"
+    },
+    {
+      "name": "রাজিয়া খাতুন",
+      "level": "১০ম শ্রেণী",
+      "image": "/image/student/student2.gif"
+    },
+    {
+      "name": "মো: রফিকুল আমিন",
+      "level": "১০ম শ্রেণী",
+      "image": "/image/student/student3.gif"
+    }
+  ]
+}
